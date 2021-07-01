@@ -1,0 +1,20 @@
+file/entity name - device.vhdl
+
+Syntax check:
+    ghdl -s device.vhdl
+
+Analysis :
+    ghdl -a device.vhdl
+
+Elaborate:
+    ghdl -e device
+
+Run:
+    ghdl -r device
+
+Create waveform:
+    ghdl -r device --vcd=wave_file_name.vcd
+
+Run waveform Analysis:
+    gtkwave wave_file_name.vcd
+    

@@ -1,0 +1,7 @@
+v 3
+file . "half_adder_tb.vhdl" "20210628081440.000" "20210628134446.246":
+  entity half_adder_tb at 1( 0) + 0 on 13;
+  architecture test of half_adder_tb at 7( 94) + 0 on 14;
+file . "half_adder.vhdl" "20210628081330.000" "20210628134336.694":
+  entity half_adder at 1( 0) + 0 on 11;
+  architecture behave of half_adder at 11( 168) + 0 on 12;

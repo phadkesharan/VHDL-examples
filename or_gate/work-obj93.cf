@@ -1,0 +1,7 @@
+v 3
+file . "or_gate.vhdl" "20210624161826.000" "20210628132454.167":
+  entity or_gate at 1( 0) + 0 on 15;
+  architecture rtl of or_gate at 11( 155) + 0 on 16;
+file . "or_gate_tb.vhdl" "20210624163022.000" "20210624220029.926":
+  entity or_gate_tb at 2( 26) + 0 on 13;
+  architecture tb of or_gate_tb at 9( 126) + 0 on 14;
