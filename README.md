@@ -13,7 +13,7 @@ download from : http://ghdl.free.fr/download.html
 
 download from : http://gtkwave.sourceforge.net/
 
-GHDL commands :
+#### GHDL commands :
 
 file/entity name - device.vhdl
 
