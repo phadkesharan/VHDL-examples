@@ -1,0 +1,7 @@
+v 3
+file . "xnor_gate_tb.vhdl" "20210729103050.000" "20210729160133.176":
+  entity xnor_gate_tb at 3( 46) + 0 on 13;
+  architecture tb of xnor_gate_tb at 10( 148) + 0 on 14;
+file . "xnor_gate.vhdl" "20210729102920.000" "20210729160122.479":
+  entity xnor_gate at 3( 35) + 0 on 11;
+  architecture behave of xnor_gate at 13( 188) + 0 on 12;

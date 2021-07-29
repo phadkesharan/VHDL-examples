@@ -1,0 +1,7 @@
+v 3
+file . "nor_gate_tb.vhdl" "20210729094914.000" "20210729151949.734":
+  entity nor_gate_tb at 2( 23) + 0 on 13;
+  architecture tb of nor_gate_tb at 9( 115) + 0 on 14;
+file . "nor_gate.vhdl" "20210729094818.000" "20210729151939.449":
+  entity nor_gate at 3( 34) + 0 on 11;
+  architecture rtl of nor_gate at 13( 204) + 0 on 12;

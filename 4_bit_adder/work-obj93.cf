@@ -1,0 +1,10 @@
+v 3
+file . "adder.vhdl" "20210726093430.000" "20210726150513.603":
+  entity adder at 3( 23) + 0 on 17;
+  architecture structural of adder at 12( 242) + 0 on 18;
+file . "full_adder.vhdl" "20210726090700.000" "20210726150440.499":
+  entity full_adder at 3( 27) + 0 on 15;
+  architecture rtl of full_adder at 12( 176) + 0 on 16;
+file . "adder_tb.vhdl" "20210726093656.000" "20210726150712.451":
+  entity adder_tb at 3( 34) + 0 on 21;
+  architecture tb of adder_tb at 10( 120) + 0 on 22;

@@ -1,4 +1,0 @@
-v 3
-file . "full_adder_tb.vhdl" "20210628082954.000" "20210628140144.615":
-  entity full_adder_tb at 2( 28) + 0 on 27;
-  architecture tb of full_adder_tb at 9( 134) + 0 on 28;

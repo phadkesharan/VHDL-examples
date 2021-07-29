@@ -1,0 +1,7 @@
+v 3
+file . "nand_gate_tb.vhdl" "20210729094526.000" "20210729151610.745":
+  entity nand_gate_tb at 2( 24) + 0 on 13;
+  architecture tb of nand_gate_tb at 9( 118) + 0 on 14;
+file . "nand_gate.vhdl" "20210729094454.000" "20210729151601.883":
+  entity nand_gate at 3( 35) + 0 on 11;
+  architecture rtl of nand_gate at 13( 207) + 0 on 12;

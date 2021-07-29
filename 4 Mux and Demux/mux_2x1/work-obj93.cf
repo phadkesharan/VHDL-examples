@@ -1,0 +1,7 @@
+v 3
+file . "mux_2x1.vhdl" "20210729110156.000" "20210729163706.103":
+  entity mux_2x1 at 3( 25) + 0 on 11;
+  architecture behave of mux_2x1 at 14( 216) + 0 on 12;
+file . "mux_2x1_tb.vhdl" "20210729110854.000" "20210729163900.297":
+  entity mux_2x1_tb at 3( 24) + 0 on 15;
+  architecture tb of mux_2x1_tb at 10( 122) + 0 on 16;
