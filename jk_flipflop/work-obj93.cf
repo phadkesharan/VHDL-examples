@@ -1,7 +1,7 @@
 v 3
-file . "jk_ff.vhdl" "20210719092540.000" "20210719145558.398":
-  entity jk_ff at 1( 0) + 0 on 21;
-  architecture behave of jk_ff at 10( 156) + 0 on 22;
-file . "jk_ff_tb.vhdl" "20210719091538.000" "20210719145606.826":
-  entity jk_ff_tb at 1( 0) + 0 on 23;
-  architecture tb of jk_ff_tb at 8( 93) + 0 on 24;
+file . "jk_ff_tb.vhdl" "20210802092226.000" "20210802145235.110":
+  entity jk_ff_tb at 1( 0) + 0 on 33;
+  architecture tb of jk_ff_tb at 8( 93) + 0 on 34;
+file . "jk_ff.vhdl" "20210802092056.000" "20210802145117.053":
+  entity jk_ff at 1( 0) + 0 on 31;
+  architecture behave of jk_ff at 10( 156) + 0 on 32;

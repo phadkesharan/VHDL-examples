@@ -41,11 +41,7 @@ begin
     -- process-2 simulation
     simulation_process: process begin
 
-        j_in <='X';
-        k_in <='X';
-        wait for signal_time_period;
-
-        j_in <='0';
+        j_in <='1';
         k_in <='0';
         wait for signal_time_period;
 
